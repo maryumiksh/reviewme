@@ -1,1 +1,22 @@
-
+[ 
+  { 
+    "id": 1, 
+    "name": "Alrabea Dental", 
+    "image": "https://inventemr.com/cloud/storage/media/medical-firms/logos/rabee_1568286906.jpg", 
+    "description": "Al Rabeeh Dental Center provide quality dental care for all ages. Today Timings. 12:00 AM - 12:00 PM" 
+  },
+  { "id": 2, "name": "Plant Cafe",
+   "image": "https://images.squarespace-cdn.com/content/v1/5c2f604b8f5130ddd7aee311/1546609578087-58OUC0O7PAIE77TDOLQ1/logo-light.jpg?format=1500w", "description": "Al Rabeeh Dental Center provide quality dental care for all ages. Today Timings. 12:00 AM - 12:00 PM" 
+  },
+  {
+    "id": 3,
+    "name": "Spartan Fitness", 
+    "image": "https://cdn.dribbble.com/users/31664/screenshots/2575755/media/8dc91eabdf12c8741c5b98fc8003e3aa.png?compress=1&resize=800x600&vertical=top", "description": "Al Rabeeh Dental Center provide quality dental care for all ages. Today Timings. 12:00 AM - 12:00 PM" 
+  },
+  {
+    "id": 4,
+    "name": "American Mission Hospital", 
+    "image": "https://www.drfive.com/hospital/images/logo/american-mission-hospital-logo.png", 
+   "description": "Al Rabeeh Dental Center provide quality dental care for all ages. Today Timings. 12:00 AM - 12:00 PM" 
+  } 
+]
